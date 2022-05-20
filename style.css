@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: grey;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#neu{
+    color: green;
+    font-size: 30px;
+}
