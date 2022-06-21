@@ -26,3 +26,7 @@ li a:hover {
 #eintrag{
     float: left; 
 }
+
+*{
+  font-family: Arial;
+}
