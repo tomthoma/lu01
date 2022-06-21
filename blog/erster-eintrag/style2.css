@@ -3,8 +3,10 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #FCFBF4;
+  font-family: Arial;
 }
+
 
 li {
   float: left;
@@ -12,7 +14,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -20,7 +22,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: #ccc;
 }
 
 #eintrag{
@@ -29,4 +31,13 @@ li a:hover {
 
 *{
   font-family: Arial;
+}
+
+body{
+  background-color: #FCFBF4;
+}
+
+#sprache{
+  color: white;
+  
 }
